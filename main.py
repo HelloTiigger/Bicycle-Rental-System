@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 26 02:07:02 2023
-
-@author: chenxili
-"""
 import os
 import csv
 import datetime
